@@ -1,0 +1,40 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI',sans-serif;
+}
+
+.btn{
+  color: white;
+  font-weight: bold;
+}
+.btn-mainColor{
+  background: #c6ff00;
+}
+button.btn a{
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.hero{
+  padding: 0 12px;
+}
+.hero-title{
+  height: 100%;
+  margin: auto;
+}
+.hero-title h1{
+  margin: 0;
+}
+
+td.row-button{
+  width: 15%;
+}
+
+footer{
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  text-align: center;
+}
